@@ -1,4 +1,4 @@
-module github.com/spy16/fabric
+module github.com/rogersm/fabric
 
 go 1.12
 
