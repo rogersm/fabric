@@ -1,4 +1,2 @@
 github.com/mattn/go-sqlite3 v1.9.0 h1:pDRiWfl+++eC2FEFRy6jXmQlvp4Yh3z1MJKg4UeYM/4=
 github.com/mattn/go-sqlite3 v1.9.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
-github.com/spy16/fabric v0.0.0-20221112142818-8eb1b2fb5d5c h1:KFc+TeD/vqAL+Cy8pNruXL9XuUAtVBlWYlAQ/W3e3Cg=
-github.com/spy16/fabric v0.0.0-20221112142818-8eb1b2fb5d5c/go.mod h1:t98NuzofQsJdaVmlbWDy7KeUpCrktkRSx3PtlNyKrzs=
