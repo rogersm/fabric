@@ -175,7 +175,7 @@ func matchClause(actual string, clause Clause) matcher {
 	}
 
 	switch clause.Type {
-	case "=", "==", "equal":
+	case "=", "==", "equal", "eq":
 		return func() (bool, error) {
 			return clause.Value == actual, nil
 		}
