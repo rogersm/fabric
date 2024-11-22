@@ -3,7 +3,7 @@ package fabric_test
 import (
 	"testing"
 
-	"github.com/spy16/fabric"
+	"github.com/rogersm/fabric"
 )
 
 func TestExportDOT(suite *testing.T) {

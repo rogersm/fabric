@@ -8,8 +8,8 @@ import (
 	"net/http"
 
 	_ "github.com/mattn/go-sqlite3"
-	"github.com/spy16/fabric"
-	"github.com/spy16/fabric/server"
+	"github.com/rogersm/fabric"
+	"github.com/rogersm/fabric/server"
 )
 
 var (

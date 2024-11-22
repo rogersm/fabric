@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/spy16/fabric"
+	"github.com/rogersm/fabric"
 )
 
 func TestQuery_IsAny(suite *testing.T) {

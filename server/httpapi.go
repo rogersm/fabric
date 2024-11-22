@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/spy16/fabric"
+	"github.com/rogersm/fabric"
 )
 
 // NewHTTP initializes the an http router with all the query routes and
